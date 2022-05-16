@@ -59,7 +59,13 @@ a, p {
     align-items: center;
     justify-content: center;
 }
+ .section-1 .text {
+     width: 320px;
+ }
 
+ .section-1 .image {
+     width: 320px;
+ }
 /* Section 2 formatting */
 
 
