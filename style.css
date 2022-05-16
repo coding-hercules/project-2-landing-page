@@ -67,6 +67,7 @@ a, p {
 
  .section-1 .image {
      width: 320px;
+     color: #E5E7EB;
  }
 /* Section 2 formatting */
 
@@ -78,4 +79,6 @@ a, p {
 
 
 /* Footer formatting */
-
+.footer {
+    color: #E5E7EB;
+}
