@@ -25,6 +25,7 @@ body{
 ul {
     list-style: none;
     padding: 0;
+    display: flex;
 }
 
 a, p {
@@ -33,15 +34,18 @@ a, p {
     font-size: 18px;
 }
 
-.section-1 .text h1 {
-    font-size: 48px;
-    font-weight: 900;
-    color: #F9FAF8;
-}
-
 #logo {
     font-size: 24px;
     color: #F9FAF8;
     font-weight: 900;
+}
+.section.header {
+    
+}
+
+.section-1 .text h1 {
+    font-size: 48px;
+    font-weight: 900;
+    color: #F9FAF8;
 }
 
