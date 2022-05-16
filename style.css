@@ -21,6 +21,16 @@ body{
     flex: 1;
 }
 
+button {
+    color:white;
+    font-size: 18px;
+    font-weight: bold;
+    background-color: #3882F6;
+    padding: 10px 40px;
+    border-width: 0;
+    border-radius: 10px;
+}
+
 /* Header formatting */
 .section.header {
     padding: 15px 150px;
