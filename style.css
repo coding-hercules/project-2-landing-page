@@ -69,6 +69,7 @@ a, p {
      width: 320px;
      color: #E5E7EB;
      background-color: rgb(94, 94, 94);
+     /* To colorise entire container */
      align-self: stretch;
  }
 /* Section 2 formatting */
