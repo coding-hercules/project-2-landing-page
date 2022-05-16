@@ -58,6 +58,8 @@ a, p {
     display: flex;
     align-items: center;
     justify-content: center;
+    gap: 30px;
+    padding: 100px 50px;
 }
  .section-1 .text {
      width: 320px;
