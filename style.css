@@ -91,6 +91,11 @@ a, p {
 /* Section 4 formatting */
 
 
+#callbox button {
+    border-width: 3px;
+    border-color: white;
+}
+
 /* Footer formatting */
 .footer {
     color: #E5E7EB;
