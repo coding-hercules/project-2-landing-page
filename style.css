@@ -68,6 +68,8 @@ a, p {
  .section-1 .image {
      width: 320px;
      color: #E5E7EB;
+     background-color: rgb(94, 94, 94);
+     align-self: stretch;
  }
 /* Section 2 formatting */
 
