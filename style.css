@@ -54,6 +54,12 @@ a, p {
     color: #F9FAF8;
 }
 
+.section-1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 /* Section 2 formatting */
 
 
