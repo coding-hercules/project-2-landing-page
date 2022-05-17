@@ -174,4 +174,7 @@ div.text {
 /* Footer formatting */
 .footer {
     color: #E5E7EB;
+    padding: 40px;
+    display: flex;
+    justify-content: center;
 }
