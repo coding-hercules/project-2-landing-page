@@ -91,6 +91,9 @@ a, p {
     display: flex;
 }
 
+.section-2 h1 {
+    padding: 45px;
+}
 /* Section 3 formatting */
 
 
