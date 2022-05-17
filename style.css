@@ -93,6 +93,9 @@ a, p {
 
 .section-2 h1 {
     padding: 45px;
+    font-size: 36px;
+    font-weight: 900;
+    color: #1F2937;
 }
 /* Section 3 formatting */
 
