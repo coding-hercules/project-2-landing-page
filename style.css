@@ -156,8 +156,10 @@ div.text {
 #callbox {
     background-color: #3882F6;
     border-radius: 10px;
+    padding: 50px 120px;
     /* This aligns the button on the texts' right */
     display: flex;
+    justify-content: space-between;
 }
 
 #call-to-action {
