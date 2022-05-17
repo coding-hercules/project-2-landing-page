@@ -160,6 +160,7 @@ div.text {
     /* This aligns the button on the texts' right */
     display: flex;
     justify-content: space-between;
+    gap: 50px;
 }
 
 #call-to-action {
