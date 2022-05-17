@@ -132,11 +132,13 @@ div.text {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    padding: 120px 260px;
 }
  #quote-author {
      align-self: flex-end;
      font-weight: 900;
      font-size: 24px;
+     padding: 10px 40px;
  }
 
  #quote {
