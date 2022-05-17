@@ -109,6 +109,10 @@ a, p {
     height: 170px;
     width: 170px;
     margin: auto;
+    border-style: solid;
+    border-color: #3882F6;
+    border-radius: 20px;
+    border-width: 4px;
 }
 
 div.text {
