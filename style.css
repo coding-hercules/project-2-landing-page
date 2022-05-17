@@ -150,6 +150,7 @@ div.text {
 /* Section 4 formatting */
 .section-4 {
     padding: 100px 180px;
+    color: #E5E7EB;
 }
 
 #callbox {
@@ -157,6 +158,9 @@ div.text {
     border-radius: 10px;
 }
 
+#call-to-action {
+    color: #F9FAF8;
+}
 #callbox button {
     border-width: 3px;
     border-color: white;
