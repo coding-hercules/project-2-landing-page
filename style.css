@@ -148,7 +148,9 @@ div.text {
      color: #1F2937;
  }
 /* Section 4 formatting */
-
+.section-4 {
+    padding: 100px 180px;
+}
 
 #callbox button {
     border-width: 3px;
