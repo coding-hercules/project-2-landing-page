@@ -83,7 +83,13 @@ a, p {
      align-self: stretch;
  }
 /* Section 2 formatting */
+.section-2 {
+    text-align: center;
+}
 
+.info-container {
+    display: flex;
+}
 
 /* Section 3 formatting */
 
