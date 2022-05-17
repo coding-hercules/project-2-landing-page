@@ -94,6 +94,7 @@ a, p {
 #callbox button {
     border-width: 3px;
     border-color: white;
+    border-style: solid;
 }
 
 /* Footer formatting */
