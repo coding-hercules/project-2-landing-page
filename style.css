@@ -127,7 +127,12 @@ div.text {
     padding: 10px;
 }
 /* Section 3 formatting */
-
+.section-3 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
 
 /* Section 4 formatting */
 
