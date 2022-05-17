@@ -152,6 +152,11 @@ div.text {
     padding: 100px 180px;
 }
 
+#callbox {
+    background-color: #3882F6;
+    border-radius: 10px;
+}
+
 #callbox button {
     border-width: 3px;
     border-color: white;
