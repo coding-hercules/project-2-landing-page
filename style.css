@@ -91,6 +91,7 @@ a, p {
     display: flex;
     justify-content: center;
     gap: 20px;
+    padding-bottom: 120px;
 }
 
 .section-2 h1 {
@@ -108,6 +109,10 @@ div.image {
     height: 170px;
     width: 170px;
     margin: auto;
+}
+
+div.text {
+    padding: 10px;
 }
 /* Section 3 formatting */
 
