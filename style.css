@@ -136,6 +136,13 @@ div.text {
  #quote-author {
      align-self: flex-end;
  }
+
+ #quote {
+     font-size: 36px;
+     font-weight: 50;
+     font-style: italic;
+     color: #1F2937;
+ }
 /* Section 4 formatting */
 
 
