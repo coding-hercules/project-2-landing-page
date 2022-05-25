@@ -76,11 +76,11 @@ a, p {
     padding: 100px 50px;
 }
  .section-1 .text {
-     width: 320px;
+     width: 400px;
  }
 
  .section-1 .image {
-     width: 320px;
+     width: 400px;
      color: #E5E7EB;
      background-color: rgb(94, 94, 94);
      /* To colorise entire container */
