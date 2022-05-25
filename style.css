@@ -57,6 +57,10 @@ a, p {
     margin-right: auto;
 }
 
+.header img {
+    width: 100px;
+}
+
 /* Section 1 formatting */
 .section-1 .text h1 {
     font-size: 48px;
