@@ -90,6 +90,10 @@ a, p {
     justify-content: center;
     align-items: center;
  }
+
+ .section-1 img {
+     width: 400px;
+ }
 /* Section 2 formatting */
 .section-2 {
     text-align: center;
